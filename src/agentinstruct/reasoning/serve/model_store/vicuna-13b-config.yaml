@@ -1,0 +1,5 @@
+responseTimeout: 5000
+torchrun:
+    nproc-per-node: 1
+handler:
+    model_path: "/code/vicuna-13b"

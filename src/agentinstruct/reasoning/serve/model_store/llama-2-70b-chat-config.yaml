@@ -1,0 +1,8 @@
+responseTimeout: 5000
+torchrun:
+    nproc-per-node: 1 
+handler:
+    model_path: "/code/Llama-2-70b-chat-hf"
+    quantize: "nf4"
+    num_gpu_per_model: 1
+    per_gpu_mem: 48000000000 #48GB

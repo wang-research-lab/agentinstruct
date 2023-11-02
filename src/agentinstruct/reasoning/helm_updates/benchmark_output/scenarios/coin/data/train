@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "question": "A coin is heads up. Dan flips the coin. Earnest does not flip the coin. Agustin does not flip the coin. Kip does not flip the coin. Is the coin still heads up?",
+        "answer": "no"
+    },
+    {
+        "id": 2,
+        "question": "A coin is heads up. Milford flips the coin. Kathie does not flip the coin. Cathy flips the coin. Randy does not flip the coin. Is the coin still heads up?",
+        "answer": "yes"
+    },
+    {
+        "id": 3,
+        "question": "A coin is heads up. Donald flips the coin. Rosalind flips the coin. Madelyn flips the coin. Ida flips the coin. Is the coin still heads up?",
+        "answer": "yes"
+    },
+    {
+        "id": 4,
+        "question": "A coin is heads up. Kristen flips the coin. Clarice does not flip the coin. Thelma flips the coin. Maurice flips the coin. Is the coin still heads up?",
+        "answer": "no"
+    },
+    {
+        "id": 5,
+        "question": "A coin is heads up. Andy flips the coin. Clinton does not flip the coin. Hilda does not flip the coin. Katrina does not flip the coin. Is the coin still heads up?",
+        "answer": "no"
+    }
+]

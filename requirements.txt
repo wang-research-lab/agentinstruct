@@ -1,0 +1,8 @@
+backoff==2.2.1
+simple_slurm==0.2.6
+langchain==0.0.325
+pydantic==1.10.*
+pysqlite3==0.5.2
+pysqlite3-binary==0.5.2
+chromadb==0.4.15
+datasets==2.14.*

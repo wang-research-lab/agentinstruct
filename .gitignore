@@ -1,0 +1,15 @@
+prod_env/
+restricted/
+*venv/
+_latest/
+benchmark_output/
+__pycache__
+*.egg-info
+.mypy_cache
+pip-wheel-metadata/
+.DS_Store
+.idea
+.vscode
+*.swp
+.nfs*
+.sif

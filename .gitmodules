@@ -1,0 +1,3 @@
+[submodule "src/agentinstruct/reasoning/helm"]
+	path = src/agentinstruct/reasoning/helm
+	url = https://github.com/stanford-crfm/helm.git

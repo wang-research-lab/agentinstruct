@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "question": "Take the last letters of each words in \"Phil Schmitt\" and concatenate them.",
+        "answer": "lt"
+    },
+    {
+        "id": 2,
+        "question": "Take the last letters of each words in \"Marta Faulkner\" and concatenate them.",
+        "answer": "ar"
+    },
+    {
+        "id": 3,
+        "question": "Take the last letters of each words in \"Eugenia Watson\" and concatenate them.",
+        "answer": "an"
+    },
+    {
+        "id": 4,
+        "question": "Take the last letters of each words in \"Danielle Barr\" and concatenate them.",
+        "answer": "er"
+    },
+    {
+        "id": 5,
+        "question": "Take the last letters of each words in \"Antwan Bates\" and concatenate them.",
+        "answer": "ns"
+    }
+]
