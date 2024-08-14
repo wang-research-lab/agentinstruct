@@ -6,6 +6,10 @@ The source code repo for paper [Agent Instructs Large Language Models to be Gene
   📃 <a href="https://arxiv.org/abs/2310.03710" target="_blank">[Paper]</a> • 💻 <a href="https://github.com/wang-research-lab/agentinstruct" target="_blank">[Github]</a> • 🤗 <a href="https://huggingface.co/datasets/WangResearchLab/AgentInstruct" target="_blank">[HuggingFace]</a> • 📌 <a href="https://nlp.wustl.edu/blog/2023-11-02-agentinstruct/" target="_blank">[Blog]</a> • 📽 <a href="http://cgraywang.github.io/files/2023-agentinstruct-slides(10min).pdf" target="_blank">[Slides]</a> • 📋 <a href="http://cgraywang.github.io/files/2023-agentinstruct-poster.pdf" target="_blank">[Poster]</a>
 </p>
 
+### News
+- May, 2024: AgentInstruct is accepted to ICML 2024.
+- March, 2024: AgentInstruct is accepted to ICLR 2024 workshop LLMAgents.
+
 ### Installation
 Begin by cloning this repository:
 ```
@@ -157,10 +161,10 @@ where `{mode}` is `zeroshot` or `zeroshotcot` and `{model}` is `vicuna-13b`, `ll
 
 ### Citation
 ```bibtex
-@article{crispino2023agent,
+@inproceedings{crispino2023agent,
   title={Agent Instructs Large Language Models to be General Zero-Shot Reasoners},
   author={Crispino, Nicholas and Montgomery, Kyle and Zeng, Fankun and Song, Dawn and Wang, Chenguang},
-  journal={arXiv preprint arXiv:2310.03710},
-  year={2023}
+  booktitle={Forty-first International Conference on Machine Learning},
+  year={2024}
 }
 ```
