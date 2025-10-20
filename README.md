@@ -3,7 +3,7 @@
 The source code repo for paper [Agent Instructs Large Language Models to be General Zero-Shot Reasoners](https://arxiv.org/abs/2310.03710).
 
 <p align="center">
-  📃 <a href="https://arxiv.org/abs/2310.03710" target="_blank">[Paper]</a> • 💻 <a href="https://github.com/wang-research-lab/agentinstruct" target="_blank">[Github]</a> • 🤗 <a href="https://huggingface.co/datasets/WangResearchLab/AgentInstruct" target="_blank">[HuggingFace]</a> • 📌 <a href="https://nlp.wustl.edu/blog/2023-11-02-agentinstruct/" target="_blank">[Blog]</a> • 📽 <a href="http://cgraywang.github.io/files/2023-agentinstruct-slides(10min).pdf" target="_blank">[Slides]</a> • 📋 <a href="http://cgraywang.github.io/files/2023-agentinstruct-poster.pdf" target="_blank">[Poster]</a>
+  📃 <a href="https://arxiv.org/abs/2310.03710" target="_blank">[Paper]</a> • 💻 <a href="https://github.com/wang-research-lab/agentinstruct" target="_blank">[Github]</a> • 🤗 <a href="https://huggingface.co/datasets/WangResearchLab/AgentInstruct" target="_blank">[HuggingFace]</a> • 📌 <a href="https://wangresearchlab.github.io/agentinstruct/" target="_blank">[Blog]</a> • 📽 <a href="http://cgraywang.github.io/files/2023-agentinstruct-slides(10min).pdf" target="_blank">[Slides]</a> • 📋 <a href="http://cgraywang.github.io/files/2023-agentinstruct-poster.pdf" target="_blank">[Poster]</a>
 </p>
 
 ### News
